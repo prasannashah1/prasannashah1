@@ -8,17 +8,16 @@
   - [Financial Data Analysis of a Company with Splunk](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 - <b>Active Directory Administration on Windows Server 2019 with PowerShell Bulk User Cration</b>
   - [Active Directory Lab Overview](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [PowerShell Bulk User Creation)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-
+  - [PowerShell Bulk User Creation](https://github.com/joshmadakor1/Jwipe.PowerShell)
+ 
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: https://linkedin.com/in/prasannashah1
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**prasannashah1/prasannashah1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
