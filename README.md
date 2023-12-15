@@ -6,7 +6,7 @@
   - [Creating a Live SOC / DDOS, Bruteforce Attack Alert / Dashboard](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Splunk / Data Analysis</b>
   - [Financial Data Analysis of a Company with Splunk](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
-- <b>Active Directory Administration on Windows Server 2019 with PowerShell Bulk User Cration</b>
+- <b>Active Directory Administration on Windows Server 2019 with PowerShell Bulk User Creation</b>
   - [Active Directory Lab Overview](https://github.com/joshmadakor1/Sentinel-Lab)
   - [PowerShell Bulk User Creation](https://github.com/joshmadakor1/Jwipe.PowerShell)
  
