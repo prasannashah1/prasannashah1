@@ -3,7 +3,7 @@
 <h2>👨‍💻 My Projects:</h2>
 
 - <b>Splunk / Cloud Cybersecurity Projects</b>
-  - [Creating a Live SOC / DDOS, Bruteforce Attack Alert / Dashboard](https://github.com/prasannashah1)
+  - [Creating a Live SOC / DDOS, Bruteforce Attack Alert / Dashboard](https://github.com/prasannashah1/Splunk-SOC/blob/main/README.md)
 - <b>Splunk / Data Analysis / Home Lab</b>
   - [Financial Data Analysis for a business using Splunk](https://github.com/prasannashah1)
 - <b>Splunk / SPL CheatSheet</b>
