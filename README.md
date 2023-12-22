@@ -5,7 +5,7 @@
 - <b>Splunk / Cloud Cybersecurity Projects</b>
   - [Creating a Live SOC / DDOS, Bruteforce Attack Alert / Dashboard](https://github.com/prasannashah1/Splunk-SOC/blob/main/README.md)
 - <b>Active Directory Administration on Windows Server 2019 with PowerShell Bulk User Creation</b>
-  - [Active Directory Lab Overview](https://github.com/prasannashah1)
+  - [Active Directory Lab Overview](https://github.com/prasannashah1/AD-LAB-Overview)
   - [PowerShell Bulk User Creation](https://github.com/prasannashah1/PowerShell)
  
 <h2> 🤳 Connect with me:</h2>
