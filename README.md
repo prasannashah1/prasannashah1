@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 My Projects:</h2>
 
+- <b>Docker Image</b>
+  - [Building a simple HTML Docker Image /  Push and Pull to and from Docker Hub](https://github.com/prasannashah1/Docker-Image)
 - <b>Splunk / Cloud Cybersecurity Projects</b>
   - [Creating a Live SOC / DDOS, Bruteforce Attack Alert / Dashboard](https://github.com/prasannashah1/Splunk-SOC)
 - <b>Active Directory Administration on Windows Server 2019 with PowerShell Bulk User Creation</b>
