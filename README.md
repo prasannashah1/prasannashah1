@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 My Projects:</h2>
 
+- <b>Git Commands</b>
+  - [Some useful Git commands](https://github.com/prasannashah1/Git-Commands)
 - <b>Docker Image</b>
   - [Building a simple HTML Docker Image /  Push and Pull to and from Docker Hub](https://github.com/prasannashah1/Docker-Image)
 - <b>Splunk / Cloud Cybersecurity Projects</b>
