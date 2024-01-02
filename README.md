@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 My Projects:</h2>
 
+- <b>Gitlab Pipelines</b>
+  - [Building Gitlab Pipelines / Staging / Variables](https://github.com/prasannashah1/Gitlab-Pipelines)
 - <b>Git Commands</b>
   - [Some useful Git commands](https://github.com/prasannashah1/Git-Commands)
 - <b>Docker Image</b>
