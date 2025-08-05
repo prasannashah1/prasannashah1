@@ -1,4 +1,4 @@
-<h1>Hi, I'm Prasanna! <br/>Passionate Cybersecurity and Penetration Testing Enthusiast</h1>
+<h1>Prasanna Shah</h1>
 
 <h2>👨‍💻 My Projects:</h2>
 
