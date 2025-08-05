@@ -10,11 +10,11 @@
   - [Active Directory Lab Overview](https://github.com/prasannashah1/AD-LAB-Overview)
   - [PowerShell Bulk User Creation](https://github.com/prasannashah1/PowerShell)
  
-<h2> 🤳 Connect with me:</h2>
+<!--<h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://linkedin.com/in/prasannashah1
+[linkedin]: https://linkedin.com/in/prasannashah1-->
 
 <!--
 **prasannashah1/prasannashah1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
