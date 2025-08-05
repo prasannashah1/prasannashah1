@@ -3,7 +3,7 @@
 <h2>👨‍💻 My Projects:</h2>
 
 <!--- <b>Office / HackTheBox Writeup</b>
-  - [HackTheBox Office(Hard) Machine Writeup](https://github.com/prasannashah1/Office-Writeup)-->
+  - [HackTheBox Office(Hard) Machine Writeup](https://github.com/prasannashah1/Office-Writeup) -->
 - <b>Splunk / Cloud Cybersecurity Projects</b>
   - [Creating a Live SOC / DDOS, Bruteforce Attack Alert / Dashboard](https://github.com/prasannashah1/Splunk-SOC)
 - <b>Active Directory Administration on Windows Server 2019 with PowerShell Bulk User Creation</b>
